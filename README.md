@@ -1,4 +1,4 @@
-# PBL_execution
+# PBL Project 
 
 ## Steps to run
 
@@ -19,3 +19,9 @@
 * flask
 * tesseract
 * tesseract-ocr
+
+## Dataset Used:
+[Automatic Number Plate Recognition](https://www.kaggle.com/code/aslanahmedov/automatic-number-plate-recognition#2.5-VERIFY-THE-DATA)
+
+# Outputs:
+https://user-images.githubusercontent.com/83905525/235236891-afeba257-e357-42d2-9247-d72379fb43f7.mp4
