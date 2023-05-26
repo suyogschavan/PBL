@@ -2,6 +2,7 @@ from flask import Flask, render_template, request
 import os
 from deeplearning import OCR
 # webserver gateway interface
+# testing line 
 import pytesseract
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 app = Flask(__name__)
