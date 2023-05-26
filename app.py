@@ -10,6 +10,7 @@ BASE_PATH = os.getcwd()
 UPLOAD_PATH = os.path.join(
     BASE_PATH, './static/upload')
 
+# added the co-contributor.
 
 @app.route('/', methods=['POST', 'GET'])
 def index():
