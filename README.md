@@ -29,4 +29,4 @@ https://user-images.githubusercontent.com/83905525/235236891-afeba257-e357-42d2-
 ### Collaborators:
 * [Suyog Chavan](https://github.com/suyogschavan)
 * [Shubham Raut](https://github.com/ShubhamRaut280)
-* Yash Jadhav
+* [Yash Jadhav](https://github.com/Mr-JackSparrow)
