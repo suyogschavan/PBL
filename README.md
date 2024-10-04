@@ -26,7 +26,3 @@
 # Outputs:
 https://user-images.githubusercontent.com/83905525/235236891-afeba257-e357-42d2-9247-d72379fb43f7.mp4
 
-### Collaborators:
-* [Suyog Chavan](https://github.com/suyogschavan)
-* [Shubham Raut](https://github.com/ShubhamRaut280)
-* [Yash Jadhav](https://github.com/Mr-JackSparrow)
